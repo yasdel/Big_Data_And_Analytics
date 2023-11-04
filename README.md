@@ -6,9 +6,7 @@ Welcome to the Big Data Analytics and Machine Learning Course! This comprehensiv
 
 ## Course Instructor
 
-![Instructor Photo](URL_TO_INSTRUCTOR_PHOTO)
-
-[Instructor Name](https://yasdel.github.io/)
+[Dr. Yashar Deldjoo](https://yasdel.github.io/)
 
 With a wealth of experience in big data and machine learning, our course instructor will guide you through each module, ensuring you gain both the theoretical knowledge and practical skills needed to excel in the field.
 
