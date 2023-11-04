@@ -1,6 +1,6 @@
 # Big Data Analytics and Machine Learning Course
 
-![Course Banner](![Alt text](https://github.com/yourusername/yasdel/Big_Data_And_Analytics/edit/main/image1.jpg?raw=true))
+![Course Banner](![Alt text](https://github.com/yourusername/yasdel/Big_Data_And_Analytics/edit/main/image1.png?raw=true))
 
 Welcome to the Big Data Analytics and Machine Learning Course! This comprehensive course is designed to introduce you to the foundational concepts of big data analytics and equip you with the skills to apply machine learning algorithms to real-world problems.
 
